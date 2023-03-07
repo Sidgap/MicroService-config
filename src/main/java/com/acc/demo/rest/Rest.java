@@ -22,7 +22,7 @@ public class Rest {
 	@GetMapping("/admin")
 	public List<admin> findAll() {
 		
-		System.out.println("hello from git 89");
+		System.out.println("hello from git 8968");
 		return es.findAll();
 	}
 	
